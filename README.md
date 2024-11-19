@@ -1,6 +1,6 @@
 # SKU GENERATOR MICROSERVICE - Zachary Johnson (JOHNSZA5)
 
-## Overview
+## OVERVIEW
 The **SKU Generator Microservice** provides an API to generate unique Stock Keeping Units (SKUs) with optional prefixes. It ensures each SKU is unique and allows users to specify a prefix for customization. 
 
 ## COMMUNICATION CONTRACT 
