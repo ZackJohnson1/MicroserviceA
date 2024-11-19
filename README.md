@@ -92,7 +92,7 @@ If the prefix is invalid (length ≥ 8), the service responds with a `400 Bad Re
 ---
 
 ## INSTRUCTIONS FOR RECIEVING DATA
-To receive data from this microservice, use any HTTP client (e.g., Python's `requests`, JavaScript's `fetch`, or a tool like `Postman`) to make a `POST` request to `/generateSKU` with a JSON payload. Example response formats are shown above.
+To receive data, use any HTTP client to make a `POST` request to `/generateSKU` with a JSON payload. Example response formats are shown above.
 
 **Python Example (Using `requests`):**
 ```python
